@@ -21,14 +21,15 @@ Esta guia esta basada principalmente en [Standard JS] (https://github.com/standa
   - Previene el uso accidental de mal-llamados globales del navegador como `open`, `length`,
     `event`, y `name`.
 
-# Extra
-
 ## Guia de React
+
   - TODO
 
 ## Issues
+
   - TODO
   - Guia mas concisa https://guides.github.com/features/issues/
 
 ## Pull Request
+
   - TODO
