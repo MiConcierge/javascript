@@ -419,3 +419,8 @@ refs object is a hack, it's mutable, lifecycle of it props depends on component 
 ## Pull Request
 
   - TODO
+
+## How do I contribute?
+
+Contributions are welcome! Check out the [issues](https://github.com/MiConcierge/javascript/issues) or the [PRs](https://github.com/MiConcierge/javascript/pulls), and make your own if you want something that you don't see there.
+
