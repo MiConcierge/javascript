@@ -26,6 +26,7 @@
 
 ## Basic Rules
 
+  - This guide is (Babel)[http://babeljs.io/]-first
   - Allways use [recompose](https://github.com/acdlite/recompose)
   - Only include one React component per file.
     - However, multiple [Stateless, or Pure, Components](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions) are allowed per file.(https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-multi-comp.md#ignorestateless).
