@@ -420,6 +420,7 @@ refs object is a hack, it's mutable, lifecycle of it props depends on component 
 ## Pull Request
 
   - TODO
+  - More consise guide https://guides.github.com/introduction/flow/
 
 ## How do I contribute?
 
